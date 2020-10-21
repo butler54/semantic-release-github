@@ -19,4 +19,4 @@ Dummy - A python library and command line utility as a template project.
 If you are not replacing this you really should be.
 """
 
-__version__ = '0.0.0'
+__version__ = '0.1.0'
